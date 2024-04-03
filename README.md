@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="846" height="391" src="[https://github.com/f-coda/VesselAnomalyDetection-IJGIS-/blob/master/routes.jpg](https://github.com/f-coda/VesselAnomalyDetection-IJGIS-/blob/master/routes.jpg)" alt="Sublime's custom image"/>
+  <img width="3376" height="1481" src="[https://github.com/f-coda/VesselAnomalyDetection-IJGIS-/blob/master/routes.jpg](https://github.com/f-coda/VesselAnomalyDetection-IJGIS-/blob/master/routes.jpg)" alt="Sublime's custom image"/>
 </p>
 
 
